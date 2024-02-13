@@ -1,5 +1,5 @@
 Name:		python-jaraco.classes
-Version:	3.3.0
+Version:	3.3.1
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/j/jaraco.classes/jaraco.classes-%{version}.tar.gz
 Summary:	Utility functions for Python class constructs
