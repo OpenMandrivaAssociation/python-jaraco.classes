@@ -7,6 +7,7 @@ URL:		https://pypi.org/project/jaraco.classes/
 License:	GPL
 Group:		Development/Python
 BuildRequires:	python%{pyver}dist(pip)
+BuildRequires:  python%{pyver}dist(setuptools)
 BuildArch:	noarch
 
 %description
