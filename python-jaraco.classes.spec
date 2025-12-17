@@ -24,4 +24,4 @@ Utility functions for Python class constructs
 
 %files
 %{py_sitedir}/jaraco
-#{py_sitedir}/jaraco.classes-*.*-info
+%{python_sitelib}/jaraco_classes-*.dist-info
